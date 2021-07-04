@@ -88,6 +88,7 @@ p {
     background: white;
     width: 100%;
     margin-top: 0px;
+    background-image: url("gradient\ \(2\).png");
 }
 
 .links {
@@ -101,7 +102,7 @@ p {
 }
 
 .links:hover {
-    background-color: rgb(0, 0, 255);
+    background-color: rgb(0, 0, 0);
     font-size: 25px;
     text-decoration: underline;
 }
