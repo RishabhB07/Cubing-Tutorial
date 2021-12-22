@@ -100,7 +100,7 @@ p {
     background: white;
     width: 100%;
     margin-top: 0px;
-    background-image: url("gradient\ \(2\).png");
+    background-image: url("gradient\ \(10\).png");
 }
 
 .links {
@@ -114,14 +114,14 @@ p {
 }
 
 .links:hover {
-    background-color: rgb(0, 0, 0);
-    font-size: 25px;
+    background-color: purple;
+    font-size: 30px;
     text-decoration: underline;
 }
 
 a {
     text-decoration: none;
-    color: crimson;
+    color: darkviolet;
     text-shadow: 2px 2px gainsboro;
 }
 
